@@ -2,7 +2,8 @@ import './style.css';
 
 function changeColors () {
 
-  document.querySelectorAll('divs');
+  var list = document.querySelectorAll(".divs");
+  
 
 }
 
