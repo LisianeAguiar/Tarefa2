@@ -26,3 +26,6 @@ function changeColors () {
 
 var btnEvent = document.getElementById("btn");
 btnEvent.addEventListener("click", changeColors);
+
+//let time = setInterval(changeColors, 1000);
+//clearTimeout();
